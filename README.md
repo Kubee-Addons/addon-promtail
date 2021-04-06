@@ -1,0 +1,2 @@
+# addon-promtail
+Promtail addon
